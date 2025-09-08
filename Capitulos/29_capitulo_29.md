@@ -1,0 +1,22 @@
+## Capítulo XXIX
+### Plática de Saint Germain en el día de Acción de Gracias
+
+Amados estudiantes de la Luz:
+Hoy es uno de los días más grandes de Acción de Gracias que he tenido en cien años. Ver cómo la Luz, el reconocimiento y la aceptación de la Presencia "YO SOY" está siendo recibida y utilizada por tantos estudiantes, es realmente un tiempo de alegría y de Acción de Gracias.
+No solamente soy yo el que les manda mi Amor y bendiciones, sino también toda la Hueste de Maestros Ascendidos, los grandes Maestros Cósmicos, la Gran Hermandad Blanca, la Legión de Luz y aquellos Ayudantes de Venus, se juntan en alabanza y gracias por la Verdadera Luz que está siendo expandida en la humanidad.
+Yo apreciaría profundamente toda la asistencia que los estudiantes bajo esta radiación puedan dar para que los libros se editen y sean puestos ante la humanidad, porque este es el más grande servicio que se puede dar en el presente.
+La mayor necesidad de hoy en día es llamar la atención externa de la humanidad hacia la "Gran Fuente Única" que puede dar la asistencia que se necesita. Ésta es la Gran Presencia "YO SOY" y la Hueste de los Maestros Ascendidos. La atención fija de los hombres en esta Gran Fuente, provee la apertura necesaria para la manifestación de la Gran Luz Cósmica Eterna, para que fluya al mundo externo alcanzando no solamente la conciencia de los individuos, sino también las condiciones que necesitan mucho de un reajuste.
+Es mi deseo que todos los estudiantes bajo esta radiación sientan la responsabilidad individual al respecto, para mantener sus mentes y sus cuerpos armonizados, y seguir cargando sus mentes y mundos emocionales con la Sabiduría y la Perfección de la Poderosa Presencia "YO SOY". Esto facilitará el trabajo de dar asistencia a la Humanidad, pues de otra forma lo externo, por su condición limitada, no lo podría concebir.
+Yo deseo que cada estudiante comprenda y sienta profundamente que los Grandes Maestros Ascendidos y yo estamos listos para dar tanta asistencia a los humanos como la Ley de su Ser lo permita. Los estudiantes deben permanecer siempre firmes y no dar poder a otra cosa que no sea la Presencia, hasta que la creación humana externa alrededor de ellos sea disuelta y consumida para que entonces la Poderosa Luz, Sabiduría y Poder de la Poderosa Presencia "YO SOY" fluya en sus mentes, seres y mundos con este Glorioso Esplendor llenándolos a ellos y a sus mundos con esa armonía, felicidad y Perfección que todo corazón tanto desea.
+Yo les urjo a todos a que hagan un trabajo definido, consciente, de protección para las Américas, para que la Luz Cósmica y la Perfección Eterna envuelvan la Tierra, limpiando y consumiendo toda discordia y continúe "bendiciendo a personas, sitios, condiciones y cosas porque es la Actividad Poderosamente Milagrosa trabajando, que nos revelará la prosperidad y felicidad que todos tanto desean".
+Esto, Amado Mío, es lo que significa atraer un Poderoso Foco de los Maestros Ascendidos entre vosotros. Solamente a medida que se abre vuestra Visión Interna para ver y conocer la Realidad Verdadera, podréis tener un pequeño concepto de la Verdad que he dicho.
+Deseo que tu corazón sea llenado con alegría y que trabajes afanosamente por la salud, éxito y prosperidad de los Mensajeros que han sido los canales a través de los cuales este foco de protección ha sido dado. Son muy desafortunados los que critican a los Mensajeros o su trabajo, mejor seria que no hubiesen nacido en esta encarnación.
+Amado estudiante, procura sentir con toda sinceridad la Realidad y las Bendiciones Infinitas de este trabajo, para que tu mundo pueda obtener el gran premio de esta bendición.
+Las palabras son inadecuadas para decirte la plenitud de mi gratitud por tu esfuerzo sincero y afanoso. Tu habilidad y poder para bendecir y prosperar aumentará mientras te adhieras firmemente a y dentro de tu Poderosa Presencia "YO SOY".
+Mi Amor te envuelve, mi Luz te ilumina y la Sabiduría de la Poderosa Presencia "YO SOY" te hace prosperar en la Plenitud de toda Perfección.
+El Amor de la Poderosa Hueste de Maestros Ascendidos, de la Gran Hermandad Blanca y de la Legión de Luz te envuelve siempre.
+"YO SOY" sinceramente en "la Luz".
+                      Saint Germain
+
+---
+[← Capítulo XXVIII](/Capitulos/28_capitulo_28.md) | [Capítulo XXX →](/Capitulos/30_capitulo_30.md)
