@@ -1,6 +1,8 @@
 # El Libro de Oro de Saint Germain
 ![Portada del libro](/img/Cover.png)
 
+> 📖 **Versión en PDF:** Disponible para descarga y lectura completa en [**El Libro de Oro - Saint Germain.pdf**](El%20Libro%20de%20Oro%20-%20Saint%20Germain.pdf).
+
 ## El Maestro Ascendido Saint Germain
 ![Maestro Ascendido Saint Germain](/img/Ascended-Master-Saint-Germain-Portrait.jpg)
 
