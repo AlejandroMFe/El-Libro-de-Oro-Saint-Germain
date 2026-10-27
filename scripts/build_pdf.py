@@ -5,7 +5,7 @@ import subprocess
 import markdown
 import pypdf
 
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MD_FILE = os.path.join(BASE_DIR, "El Libro de Oro - Saint Germain.md")
 COVER_IMG = os.path.join(BASE_DIR, "img", "Cover.png")
 PORTRAIT_IMG = os.path.join(BASE_DIR, "img", "Ascended-Master-Saint-Germain-Portrait.jpg")

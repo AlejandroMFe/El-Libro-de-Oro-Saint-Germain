@@ -10,10 +10,13 @@ Este repositorio incluye scripts de Python para reconstruir tanto el PDF como la
 
 ```bash
 # Generar la versión web (index.html)
-python build_web.py
+python scripts/build_web.py
 
 # Generar el archivo PDF maquetado
-python build_pdf.py
+python scripts/build_pdf.py
+
+# Ejecutar las pruebas de verificación
+python scripts/test_book.py
 ```
 
 ## El Maestro Ascendido Saint Germain

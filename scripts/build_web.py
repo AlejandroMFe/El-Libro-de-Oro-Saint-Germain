@@ -2,7 +2,7 @@ import os
 import re
 import markdown
 
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MD_FILE = os.path.join(BASE_DIR, "El Libro de Oro - Saint Germain.md")
 HTML_FILE = os.path.join(BASE_DIR, "index.html")
 
