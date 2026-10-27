@@ -63,16 +63,16 @@ def build_web():
 
     # Generate the sidebar navigation items HTML
     toc_items = []
-    toc_items.append("""<li class="toc-item"><a href="#portada" class="toc-link active"><span class="toc-num">✦</span> Portada del Libro</a></li>""")
-    toc_items.append("""<li class="toc-item"><a href="#portadilla" class="toc-link"><span class="toc-num">✦</span> Portadilla & Maestro</a></li>""")
-    toc_items.append("""<li class="toc-item"><a href="#autorizacion-para-divulgacion" class="toc-link"><span class="toc-num">§</span> Autorización de Divulgación</a></li>""")
-    toc_items.append("""<li class="toc-item"><a href="#el-libro-de-oro-de-la-hermandad-saint-germain" class="toc-link"><span class="toc-num">§</span> La Hermandad Saint Germain</a></li>""")
+    toc_items.append("""<li class="toc-item"><a href="#portada" class="toc-link active"><span class="toc-title">Portada del Libro</span></a></li>""")
+    toc_items.append("""<li class="toc-item"><a href="#portadilla" class="toc-link"><span class="toc-title">Portadilla &amp; Maestro</span></a></li>""")
+    toc_items.append("""<li class="toc-item"><a href="#autorizacion-para-divulgacion" class="toc-link"><span class="toc-title">Autorización de Divulgación</span></a></li>""")
+    toc_items.append("""<li class="toc-item"><a href="#el-libro-de-oro-de-la-hermandad-saint-germain" class="toc-link"><span class="toc-title">La Hermandad Saint Germain</span></a></li>""")
 
     for r in chapter_roman:
         cid = f"capitulo-{r.lower()}"
         sub = chapter_subtitles.get(r, "")
         sub_html = f'<span class="toc-sub">{sub}</span>' if sub else ""
-        toc_items.append(f"""<li class="toc-item"><a href="#{cid}" class="toc-link"><span class="toc-num">{r}</span> Capítulo {r}{sub_html}</a></li>""")
+        toc_items.append(f"""<li class="toc-item"><a href="#{cid}" class="toc-link"><span class="toc-title">Capítulo {r}</span>{sub_html}</a></li>""")
 
     toc_nav_html = "\n".join(toc_items)
 
@@ -445,11 +445,9 @@ def build_web():
       font-weight: 600;
     }}
 
-    .toc-num {{
-      font-family: var(--font-display);
-      font-size: 11px;
-      opacity: 0.8;
-      letter-spacing: 1px;
+    .toc-title {{
+      font-size: 14.5px;
+      font-weight: 500;
     }}
 
     .toc-sub {{
