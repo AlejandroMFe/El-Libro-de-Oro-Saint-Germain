@@ -1,7 +1,20 @@
 # El Libro de Oro de Saint Germain
 ![Portada del libro](/img/Cover.png)
 
+> 🌐 **Lector Web Digital:** [**https://alejandromfe.github.io/El-Libro-de-Oro-Saint-Germain/**](https://alejandromfe.github.io/El-Libro-de-Oro-Saint-Germain/)  
 > 📖 **Versión en PDF:** Disponible para descarga y lectura completa en [**El Libro de Oro - Saint Germain.pdf**](El%20Libro%20de%20Oro%20-%20Saint%20Germain.pdf).
+
+### Generación y compilación
+
+Este repositorio incluye scripts de Python para reconstruir tanto el PDF como la versión web a partir de los archivos Markdown:
+
+```bash
+# Generar la versión web (index.html)
+python build_web.py
+
+# Generar el archivo PDF maquetado
+python build_pdf.py
+```
 
 ## El Maestro Ascendido Saint Germain
 ![Maestro Ascendido Saint Germain](/img/Ascended-Master-Saint-Germain-Portrait.jpg)
