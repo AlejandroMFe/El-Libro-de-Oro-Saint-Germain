@@ -178,11 +178,11 @@ def build_pdf():
     }}
 
     .portrait-box {{
-      width: 190px;
-      height: 190px;
-      border-radius: 50%;
+      width: 170px;
+      height: 238px;
+      border-radius: 6px;
       overflow: hidden;
-      margin: 15px auto;
+      margin: 12px auto;
       border: 3.5px solid #c59b27;
       box-shadow: 0 4px 16px rgba(197, 155, 39, 0.35);
     }}
@@ -190,7 +190,7 @@ def build_pdf():
     .portrait-box img {{
       width: 100%;
       height: 100%;
-      object-fit: cover;
+      object-fit: contain;
       display: block;
     }}
 
